@@ -1,4 +1,4 @@
-#Comment exécuter le modèle d'IA Huggingface
+# Comment exécuter le modèle d'IA Huggingface
 
 ### LLM.Ci - cɪ / xn--c-b2a
 
